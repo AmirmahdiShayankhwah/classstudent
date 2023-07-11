@@ -1,0 +1,6 @@
+D:\prog2023\consolestudent\consolestudent\bin\Debug\consolestudent.exe.config
+D:\prog2023\consolestudent\consolestudent\bin\Debug\consolestudent.exe
+D:\prog2023\consolestudent\consolestudent\bin\Debug\consolestudent.pdb
+D:\prog2023\consolestudent\consolestudent\obj\Debug\consolestudent.csprojResolveAssemblyReference.cache
+D:\prog2023\consolestudent\consolestudent\obj\Debug\consolestudent.exe
+D:\prog2023\consolestudent\consolestudent\obj\Debug\consolestudent.pdb
